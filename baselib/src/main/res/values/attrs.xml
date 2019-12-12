@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--圆角图片自定义属性-->
+    <declare-styleable name="RoundLittleImageView">
+        <attr name="image_view_radius" format="dimension" /><!--单位dp-->
+    </declare-styleable>
+
+</resources>
